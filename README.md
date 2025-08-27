@@ -98,5 +98,9 @@ Requires internet connection to fetch weather data.
 
 Make sure to use a valid OpenWeather API key.
 
+## code source ☺️☺️👇
+
+[code source](https://github.com/kodjoballo/weather_api_app/blob/main/weather_app.py)
+
 
 
